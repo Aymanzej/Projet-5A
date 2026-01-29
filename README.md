@@ -76,11 +76,11 @@ cd Projet-5A
 
 2️⃣ Créer un environnement Conda
 ```bash
-conda create -n skt-env python=3.10.19
+conda create -n Projet5A-env python=3.10.19
 
 Activer l’environnement :
 
-conda activate skt-env
+conda activate Projet5A-env
 ```
 
 
@@ -93,7 +93,24 @@ pip install -r requirements.txt
 
 🚀 Utilisation
 
-Lancer les fichiers ipynb
+## 🚀 Lancer les fichiers Jupyter Notebook
+
+Les notebooks sont organisés par **dossier correspondant aux mois** (ex. `1st_month/`, `2nd_month/`, etc.), chaque dossier contenant les fichiers `.ipynb` correspondants.  
+
+Chaque notebook est **indépendant**, ce qui signifie qu'ils peuvent être exécutés séparément sans dépendre des autres notebooks. Cela permet d’explorer facilement les analyses **mois par mois** ou de tester différentes parties du projet de manière autonome.
+
+Pour lancer Jupyter Notebook :
+
+```bash
+jupyter notebook
+```
+
+Ensuite, naviguez dans le dossier correspondant au **mois souhaité** et ouvrez le notebook `.ipynb` que vous souhaitez exécuter.
+
+- **Analyse temporelle** : modèles LSTM pour la prédiction des séries SKT  
+- **Analyse spatiale** : CNN et processus gaussiens  
+- **Visualisation** : cartes interactives de l’Auvergne dans les notebooks dédiés
+
 
 ## 🛠️ Stack Technique
 
