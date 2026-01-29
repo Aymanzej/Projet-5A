@@ -1,8 +1,14 @@
-# 🌍 Modélisation Spatio-Temporelle des Températures de Surface (SKT) en Auvergne
+# 🌍 Modélisation de l’évolution temporelle desespèces forestières par apprentissage automatique
 
-Ce projet de 5ème année (Projet **5A**) porte sur l’analyse prédictive et la visualisation des dynamiques de température de surface (**Skin Temperature – SKT**) sur le territoire auvergnat.
+Ce **projet tutoré**, réalisé dans le cadre de la **cinquième année à Polytech Clermont**, propose une **méthodologie avancée de modélisation spatio-temporelle** visant à analyser l’**évolution des écosystèmes forestiers** face aux **pressions du changement climatique**.
 
-En combinant des approches de **Deep Learning** (LSTM, CNN) et d’**interpolation spatiale** (Processus Gaussiens), l’objectif est d’anticiper les variations thermiques locales et de mieux comprendre le stress environnemental régional.
+En exploitant la puissance du **langage Python** et de **bibliothèques spécialisées en traitement de données massives**, nous avons **extrait, structuré et analysé des données climatiques** afin de caractériser la **dynamique thermique des sols**.
+
+L’étude repose sur une **confrontation rigoureuse** entre des **approches statistiques classiques**, basées sur les **Processus Gaussiens**, et la **capacité de mémorisation séquentielle** des **réseaux de neurones LSTM (Long Short-Term Memory)**.
+
+Les **résultats expérimentaux** mettent en évidence la **supériorité des architectures de Deep Learning** : tandis que le **modèle statistique** peine à capturer des **cycles saisonniers complexes**, l’**architecture récurrente LSTM** parvient à **modéliser les variations thermiques avec une grande fidélité**.
+
+Ce travail aboutit à la **production de cartographies interactives**, constituant un **outil de visualisation essentiel** pour **identifier les zones de stress environnemental critique**.
 
 ---
 
