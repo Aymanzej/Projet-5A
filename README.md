@@ -69,13 +69,6 @@ Projet-5A/
 - **Conda / Miniconda / Anaconda installé**
 - **Python 3.10.19**
 
-
----
-
-
-### 1️⃣ Cloner le projet
-
-
 ```bash
 git clone https://github.com/Aymanzej/Projet-5A.git
 cd Projet-5A
