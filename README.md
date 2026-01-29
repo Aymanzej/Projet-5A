@@ -77,9 +77,11 @@ cd Projet-5A
 2️⃣ Créer un environnement Conda
 ```bash
 conda create -n Projet5A-env python=3.10.19
+```
 
 Activer l’environnement :
 
+```bash
 conda activate Projet5A-env
 ```
 
