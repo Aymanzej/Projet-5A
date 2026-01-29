@@ -1,0 +1,35 @@
+# --- REQUIREMENTS PROJET 5A  ---
+# Généré le : 29/01/2026
+
+
+# Environnement
+python==3.10.19
+
+# --- Manipulation de données ---
+numpy==2.1.2
+pandas==2.3.3
+scipy==1.15.3
+shapely==2.1.2
+
+# --- Machine Learning ---
+scikit-learn==1.7.2
+torch==2.7.1+cu118
+
+# --- Deep Learning ---
+tensorflow==2.20.0
+
+# --- Cartographie ---
+geopandas==1.1.1
+folium==0.20.0
+branca==0.8.2
+cartiflette==0.1.9
+
+# --- Visualisation ---
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# --- Utilitaires ---
+pydot==4.0.1
+# graphviz (non installée dans cet environnement)
+ipython==8.37.0
+
