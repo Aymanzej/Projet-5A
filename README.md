@@ -94,7 +94,6 @@ pip install -r requirements.txt
 ```
 
 
-🚀 Utilisation
 
 ## 🚀 Lancer les fichiers Jupyter Notebook
 
