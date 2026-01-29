@@ -46,7 +46,8 @@ Ce travail aboutit à la **production de cartographies interactives**, constitua
 ```text
 Projet-5A/
 ├── Data/                   # Fichiers CSV
-├── Notebooks par mois/              # Analyses (.ipynb) : LSTM, CNN, GP, Cartographie
+├── Notebooks par mois/     # Analyses (.ipynb) : LSTM, CNN, GP, Cartographie
+└── Rapport.pdf                 # Rapport du projet 
 ├── requirements.txt        # Dépendances du projet
 └── README.md               # Documentation principale
 ```
